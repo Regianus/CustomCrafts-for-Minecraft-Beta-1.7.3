@@ -1,0 +1,6 @@
+name: BetaQuilesCraftings
+version: "1.0"
+description: Adds recipes for BetaQuiles :3
+author: TheKing1543
+website: https://www.theking1543.eu.org
+main: com.regianus.betaquilescraftings.Recipes
